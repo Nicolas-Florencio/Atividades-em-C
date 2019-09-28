@@ -15,5 +15,6 @@ int main(){
 	comprimento= 2*pi*raio;
 	area= pi * (raio*raio);
 	volume= 4*pi*(raio*raio*raio) /3;
-	printf("\nO comprimento da esfera é: %f\nA área é: %f\nO volume é: %f",comprimento,area,volume);
+	printf("\nO comprimento da esfera é: %f\nA área é: %f\nO volume é: %f\n",comprimento,area,volume);
+	system("pause");
 }
