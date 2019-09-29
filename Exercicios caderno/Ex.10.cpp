@@ -1,4 +1,4 @@
- /*-----------------------------------------
+/*-----------------------------------------
 	Função: Calcula se o número é maior ou menor que 100 se for maior que 100 ele recebe 150
 	Autores: Nicolas Florencio Alves
 	Data de criação: 29/09/2019

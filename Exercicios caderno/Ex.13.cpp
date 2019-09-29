@@ -1,8 +1,8 @@
 /*-----------------------------------------
-	Função: Informa se o número digitado está entre 5 e 20, e calcula o cubo dele
+	Funçao: Informa se o número digitado está entre 5 e 20, e calcula o cubo dele
 	Autor: Nicolas Florencio Alves
-	Data de criação: 29/09/2019
-	Data de modificação: 29/09/2019
+	Data de criaçao: 29/09/2019
+	Data de modificaçao: 29/09/2019
 -------------------------------------------*/
 #include<iostream>
 #include<locale>
@@ -16,7 +16,7 @@ int main(){
 		printf("\nO valor de %i ao cubo é de: %i\n\n",valor,valorCubo);
 	}
 	else{
-		printf("\nO valor não pertence ao intervalo\n\n");
+		printf("\nO valor nao pertence ao intervalo\n\n");
 	}
 	system("pause");
 }
