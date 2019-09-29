@@ -1,6 +1,6 @@
 /*-----------------------------------------
 	Função: Escreve na tela Hello World!
-	Autor: Gabriel Cesar Ragonha Rodrigues
+	Autor: Nicolas Florencio ALves
 	Data de criação: 25/09/2019
 	Data de modificação: 25/09/2019
 -------------------------------------------*/

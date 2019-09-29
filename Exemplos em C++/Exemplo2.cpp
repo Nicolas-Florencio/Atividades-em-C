@@ -1,6 +1,6 @@
 /*-----------------------------------------
 	Função: Informa a soma de dois números
-	Autor: Gabriel Cesar Ragonha Rodrigues
+	Autor: Nicolas Florencio Alves
 	Data de criação: 25/09/2019
 	Data de modificação: 25/09/2019
 -------------------------------------------*/
