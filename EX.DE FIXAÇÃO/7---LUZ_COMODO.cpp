@@ -1,6 +1,6 @@
 /*-----------------------------------------
 	Função: Para cada metro quadrado deve-se usar 18W de potência, receba as dimensões do cômodo mostre a área e a potência de iluminaçâo
-	Autor: Gabriel Cesar Ragonha Rodrigues e Nicolas Florencio Alves
+	Autor: Nicolas Florencio Alves
 	Data de criação: 28/09/2019
 	Data de modificação: 28/09/2019
 -------------------------------------------*/

@@ -1,6 +1,6 @@
 /*-----------------------------------------
 	Função: Converter Celsius para Fahrenheit usando °F= (°C * 1.8) + 32.00 
-	Autor: Gabriel Cesar Ragonha Rodrigues e Nicolas Florencio Alves
+	Autor: Nicolas Florencio Alves
 	Data de criação: 28/09/2019
 	Data de modificação: 28/09/2019
 -------------------------------------------*/

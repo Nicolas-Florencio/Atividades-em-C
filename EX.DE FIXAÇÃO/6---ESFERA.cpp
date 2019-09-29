@@ -1,6 +1,6 @@
 /*-----------------------------------------
 	Função: Ler raio de um esfera e exibir o comprimento( C=2*pi*R ), Àrea( A=pi*(R*R) ), Volume( V=(3/4)*pi*(R*R*R)
-	Autor: Gabriel Cesar Ragonha Rodrigues e Nicolas Florencio Alves
+	Autor: Nicolas Florencio Alves
 	Data de criação: 28/09/2019
 	Data de modificação: 28/09/2019
 -------------------------------------------*/

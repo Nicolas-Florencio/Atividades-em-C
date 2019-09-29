@@ -1,6 +1,6 @@
 /*-----------------------------------------
 	Função: Mostrar a média ponderada de 4 notas media = ((n1*peso1) + (n2*peso2) + (n3*peso3) + (n4*peso4)) / ((peso1+peso2+peso3+peso4));
-	Autor: Gabriel Cesar Ragonha Rodrigues e Nicolas Florencio Alves
+	Autor: Nicolas Florencio Alves
 	Data de criação: 28/09/2019
 	Data de modificação: 28/09/2019
 -------------------------------------------*/

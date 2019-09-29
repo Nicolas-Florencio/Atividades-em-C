@@ -1,6 +1,6 @@
 /*-----------------------------------------
 	Função: Calculo de IMC usando peso/(altura*altura)
-	Autor: Gabriel Cesar Ragonha Rodrigues e Nicolas Florencio Alves
+	Autor: Nicolas Florencio Alves
 	Data de criação: 28/09/2019
 	Data de modificação: 28/09/2019
 -------------------------------------------*/
