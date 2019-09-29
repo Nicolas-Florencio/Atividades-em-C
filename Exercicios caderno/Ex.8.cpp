@@ -1,6 +1,6 @@
 /*-----------------------------------------
 	Função: Receber 4 notas e mostrar a média
-	Autor: Gabriel Cesar Ragonha Rodrigues e Nicolas Florencio Alves
+	Autor: Nicolas Florencio Alves
 	Data de criação: 28/09/2019
 	Data de modificação: 28/09/2019
 -------------------------------------------*/

@@ -1,6 +1,6 @@
 /*-----------------------------------------
 	Função: Receber 3 valores e mostrar o quadrado da soma dos números
-	Autor: Gabriel Cesar Ragonha Rodrigues e Nicolas Florencio Alves
+	Autor: Nicolas Florencio Alves
 	Data de criação: 27/09/2019
 	Data de modificação: 27/09/2019
 -------------------------------------------*/

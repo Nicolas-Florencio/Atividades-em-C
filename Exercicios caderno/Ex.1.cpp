@@ -1,6 +1,6 @@
  /*-----------------------------------------
 	Função: Calculo de área de retângulo
-	Autor: Gabriel Cesar Ragonha Rodrigues, Nicolas Florencio Alves
+	Autor: Nicolas Florencio Alves
 	Data de criação: 26/09/2019
 	Data de modificação: 27/09/2019
 -------------------------------------------*/

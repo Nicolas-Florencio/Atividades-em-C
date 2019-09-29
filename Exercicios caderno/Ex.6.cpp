@@ -1,6 +1,6 @@
 /*-----------------------------------------
 	Função: Valor de uma prestação em atraso USANDO: PRESTAÇAO= VALOR + (VALOR * (TAXA/100) * TEMPO) 
-	Autor: Gabriel Cesar Ragonha Rodrigues e Nicolas Florencio Alves
+	Autor: Nicolas Florencio Alves
 	Data de criação: 27/09/2019
 	Data de modificação: 27/09/2019
 -------------------------------------------*/
