@@ -1,7 +1,7 @@
 /*-----------------------------------------
 	Função: Ler e calcular o quadrado do número, parar quando 0
 	Autor: Nicolas Florencio Alves
-	Data de criação: 29/09/2019
+	Data de criação: 30/09/2019
 	Data de modificação: 30/09/2019
 -------------------------------------------*/
 #include <iostream>
@@ -14,7 +14,7 @@ int main(){
     scanf("%i", & n);
     nQua=n*n;
     printf("\n%i ao quadrado é: %i\n\n", n,nQua);
-    printf("Para sair digite 0");
+    printf("Para sair digite 0\n\n");
     }
     system("pause");
     }
