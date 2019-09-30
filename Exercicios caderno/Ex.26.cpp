@@ -8,13 +8,14 @@
 #include <locale>
 int main(){
     setlocale(LC_ALL, "");
-    int n=0,nQua=0;
+    int n=1,nQua=0;
     while(n>0){
     printf("Informe um número: ");
     scanf("%i", & n);
     nQua=n*n;
     printf("\n%i ao quadrado é: %i\n\n", n,nQua);
-    printf("Para sair digite 0\n\n");
+    printf("Para sair digite 0, se quiser continuar aperte qualquer outro número.\n\n");
+    scanf("%i", & n);
     }
     system("pause");
     }
