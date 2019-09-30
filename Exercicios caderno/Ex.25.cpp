@@ -1,13 +1,8 @@
 /*-----------------------------------------
-	FunÃ§Ã£o: Ler e mostrar 50 nomes
+	Função: Ler e mostrar 50 nomes
 	Autor: Nicolas Florencio Alves
-<<<<<<< HEAD
 	Data de criação: 29/09/2019
 	Data de modificação: 30/09/2019
-=======
-	Data de criaÃ§Ã£o: 29/09/2019
-	Data de modificaÃ§Ã£o: 29/09/2019
->>>>>>> 13be4b36ad5aee4666cd0b08f31517ca04a806b8
 -------------------------------------------*/
 #include <iostream>
 #include <locale>
@@ -21,8 +16,5 @@ int main(){
 		p=p+1;
 		printf(nome,"\n");
 	}
-<<<<<<< HEAD
 	system("pause");
-=======
->>>>>>> 13be4b36ad5aee4666cd0b08f31517ca04a806b8
 }
